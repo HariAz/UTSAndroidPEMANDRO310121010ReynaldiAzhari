@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Tanggal Pengerjaan : 03/06/2024
+    NIM : 10121010
+    Nama : Reynaldi Azhari
+    Kelas : Pemrograman Android 3-->
+<resources>
+    <color name="title">#424242</color>
+    <color name="info_title">#757575</color>
+    <color name="bold_yellow">#FFE288</color>
+    <color name="light_yellow">#FFF9E1</color>
+    <color name="green">#16A75C</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
